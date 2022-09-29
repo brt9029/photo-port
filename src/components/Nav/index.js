@@ -49,7 +49,7 @@ function Nav (props) {
                 </ul>
             </nav>
         </header>
-    )
+    );
 }
 
 export default Nav;
