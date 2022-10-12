@@ -1,5 +1,8 @@
 # Photo Port
-
+![brt9029](https://img.shields.io/badge/-html-blueviolet)
+![brt9029](https://img.shields.io/badge/-css-blue)
+![brt9029](https://img.shields.io/badge/-javascript-yellow)
+![brt9029](https://img.shields.io/badge/-react-brightgreen)
 ## Description
 - A website created using React.js in order to showcase a photographer's portfolio
 - This was created in order to get a better grasp on react.js and conditional rendering via useState
